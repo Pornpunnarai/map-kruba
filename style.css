@@ -1,0 +1,14 @@
+/* FONT FACE STYLE */
+/*******************/
+@font-face {
+    font-family: 'meuangBold';
+    src: url('fonts/meuang-Bold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'meuang';
+    src: url('fonts/meuang-Regular.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
